@@ -70,7 +70,7 @@
         "latitude": 50.1109,
         "longitude": -8.6821
       },
-      "p2p_endpoint": "wax.greymass.com:9876",
+      "p2p_endpoint": "wax.greymass.com:35777",
       "node_type" : "seed"
     },
     {
@@ -80,7 +80,7 @@
         "latitude": 39.0997,
         "longitude": -94.5786
       },
-      "p2p_endpoint": "wax.greymass.com:9876",
+      "p2p_endpoint": "wax.greymass.com:35777",
       "node_type" : "seed"
     },
     {
