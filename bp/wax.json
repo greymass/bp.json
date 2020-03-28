@@ -59,7 +59,7 @@
         "latitude": 39.0997,
         "longitude": -94.5786
       },
-      "api_endpoint": "http://",
+      "api_endpoint": "http://wax.greymass.com",
       "ssl_endpoint": "https://wax.greymass.com",
       "node_type" : "full"
     },
