@@ -40,7 +40,12 @@
       },
       "api_endpoint": "http://eos.greymass.com",
       "ssl_endpoint": "https://eos.greymass.com",
-      "node_type" : "full"
+      "node_type" : "query",
+      "features": [
+        "chain-api",
+        "account-query",
+        "history-v1"
+      ]
     },
     {
       "location": {
@@ -51,18 +56,12 @@
       },
       "api_endpoint": "http://eos.greymass.com",
       "ssl_endpoint": "https://eos.greymass.com",
-      "node_type" : "full"
-    },
-    {
-      "location": {
-        "name": "DTW",
-        "country": "US",
-        "latitude": 42.3314,
-        "longitude": -83.0458
-      },
-      "api_endpoint": "http://eos.greymass.com",
-      "ssl_endpoint": "https://eos.greymass.com",
-      "node_type" : "full"
+      "node_type" : "query",
+      "features": [
+        "chain-api",
+        "account-query",
+        "history-v1"
+      ]
     },
     {
       "location": {
@@ -73,9 +72,14 @@
       },
       "api_endpoint": "http://eos.greymass.com",
       "ssl_endpoint": "https://eos.greymass.com",
-      "node_type" : "full"
+      "node_type" : "query",
+      "features": [
+        "chain-api",
+        "account-query",
+        "history-v1"
+      ]
     },
-        {
+    {
       "location": {
         "name": "YUL",
         "country": "CA",
