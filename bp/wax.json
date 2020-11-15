@@ -39,7 +39,11 @@
       },
       "api_endpoint": "http://wax.greymass.com",
       "ssl_endpoint": "https://wax.greymass.com",
-      "node_type" : "full"
+      "node_type" : "query",
+      "features": [
+        "chain-api",
+        "history-v1"
+      ]
     },
     {
       "location": {
@@ -50,7 +54,11 @@
       },
       "api_endpoint": "http://wax.greymass.com",
       "ssl_endpoint": "https://wax.greymass.com",
-      "node_type" : "full"
+      "node_type" : "query",
+      "features": [
+        "chain-api",
+        "history-v1"
+      ]
     },
     {
       "location": {
@@ -61,7 +69,11 @@
       },
       "api_endpoint": "http://wax.greymass.com",
       "ssl_endpoint": "https://wax.greymass.com",
-      "node_type" : "full"
+      "node_type" : "query",
+      "features": [
+        "chain-api",
+        "history-v1"
+      ]
     },
         {
       "location": {
