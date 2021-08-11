@@ -3,6 +3,7 @@
   "org": {
     "candidate_name": "Greymass",
     "website": "https://greymass.com",
+    "chain_resources": "https://snapshots.greymass.network/",
     "ownership_disclosure": "https://greymass.com/ownership_disclosure",
     "code_of_conduct": "https://greymass.com/code_of_conduct",
     "email":"hello@greymass.com",
