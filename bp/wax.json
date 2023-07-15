@@ -43,7 +43,8 @@
       "node_type" : "query",
       "features": [
         "chain-api",
-        "history-v1"
+        "history-v1",
+        "Roborovski"
       ]
     },
     {
@@ -58,7 +59,8 @@
       "node_type" : "query",
       "features": [
         "chain-api",
-        "history-v1"
+        "history-v1",
+        "Roborovski"
       ]
     },
     {
@@ -73,7 +75,8 @@
       "node_type" : "query",
       "features": [
         "chain-api",
-        "history-v1"
+        "history-v1",
+        "Roborovski"
       ]
     },
         {
